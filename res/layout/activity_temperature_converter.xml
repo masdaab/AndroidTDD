@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+	<TextView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:text="@string/prompt" />
+
+	<TextView
+	    android:id="@+id/celsius_label"
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/celsius"
+	    android:textStyle="bold" />
+
+	<com.ulhack.tc.EditNumber
+	    android:id="@+id/celsius"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:contentDescription="@+id/celsius"
+	    android:gravity="right|center_vertical"
+	    android:inputType="numberDecimal"
+	    android:tag="celsius" >
+
+		<requestFocus />
+	</com.ulhack.tc.EditNumber>
+	<TextView android:layout_width="wrap_content"
+		android:layout_height="wrap_content" android:text="@string/fahrenheit"
+		android:textStyle="bold" android:id="@+id/fahrenheit_label" />
+
+	<com.ulhack.tc.EditNumber
+	    android:id="@+id/fahrenheit"
+	    android:layout_width="match_parent"
+	    android:layout_height="wrap_content"
+	    android:contentDescription="@+id/fahrenheit"
+	    android:gravity="right|center_vertical"
+	    android:inputType="numberDecimal"
+	    android:tag="fahrenheit" />
+
+	<TextView
+	    android:id="@+id/debug"
+	    android:layout_width="match_parent"
+	    android:layout_height="match_parent"
+	    android:textAppearance="?android:attr/textAppearanceMedium"
+	    android:textColor="#ccff00ff" />
+
+</LinearLayout>
