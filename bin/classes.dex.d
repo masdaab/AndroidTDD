@@ -1,0 +1,22 @@
+/home/haq/workspace/TemperatureConverter/bin/classes.dex : \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/TemperatureConverterActivity$1.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/R$drawable.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/TemperatureConverterActivity.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/R$dimen.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/TemperatureConverterActivity$3.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/TemperatureConverter.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/TemperatureConverterActivity$2.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/R$id.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/BuildConfig.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/R$menu.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/R$layout.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/TemperatureConverterActivity$TemperatureChangeWatcher.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/R$attr.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/R$style.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/TemperatureConverterApplication.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/R.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/R$string.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/com/ulhack/tc/EditNumber.class \
+/home/haq/workspace/TemperatureConverter/bin/classes/R.java.d \
+/home/haq/workspace/TemperatureConverter/bin/dexedLibs/android-support-v4-0639207d82bea3377612682112167e11.jar \
+/home/haq/workspace/TemperatureConverter/bin/dexedLibs/emma_device-7930cd97e709cc2f327684f9e7455900.jar \

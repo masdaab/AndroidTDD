@@ -1,0 +1,7 @@
+# view res/layout/activity_temperature_converter.xml #generated:18
+# view res/layout/activity_temperature_converter.xml #generated:33
+-keep class com.ulhack.tc.EditNumber { <init>(...); }
+
+# view AndroidManifest.xml #generated:16
+-keep class com.ulhack.tc.TemperatureConverterActivity { <init>(...); }
+
